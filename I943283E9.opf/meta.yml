@@ -1,0 +1,16 @@
+id: I943283E9
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:23:09.202140
+last_modified: 2023-02-08 16:23:09.202290
+source_metadata:
+  title: Mahāvyutpatti with sGra sbyor bam po gñis pa
+  language: sa
+bases:
+  D76D:
+    base_file: D76D.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

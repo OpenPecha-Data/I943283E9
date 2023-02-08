@@ -1,0 +1,79 @@
+id: 50016732812a4b74a4e940210c982fa1
+annotation_type: index
+revision: '00001'
+annotations:
+  b07c9eae4ebc47fca17e46e65b30b7f0:
+    base: D76D.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 13
+    - title: Preface
+      span:
+        start: 14
+        end: 361
+    - title: §1-20
+      span:
+        start: 362
+        end: 11443
+    - title: §21-40
+      span:
+        start: 11444
+        end: 22738
+    - title: §41-60
+      span:
+        start: 22739
+        end: 28371
+    - title: §61-80
+      span:
+        start: 28372
+        end: 37919
+    - title: §81-100
+      span:
+        start: 37920
+        end: 42137
+    - title: §101-120
+      span:
+        start: 42138
+        end: 48401
+    - title: §121-140
+      span:
+        start: 48402
+        end: 55547
+    - title: §141-160
+      span:
+        start: 55548
+        end: 58794
+    - title: §161-180
+      span:
+        start: 58795
+        end: 65063
+    - title: §181-200
+      span:
+        start: 65064
+        end: 77229
+    - title: §201-220
+      span:
+        start: 77230
+        end: 83646
+    - title: §221-240
+      span:
+        start: 83647
+        end: 97809
+    - title: §241-260
+      span:
+        start: 97810
+        end: 132771
+    - title: §261-280
+      span:
+        start: 132772
+        end: 150585
+    - title: §281-283
+      span:
+        start: 150586
+        end: 151651
+    - title: Colophon
+      span:
+        start: 151652
+        end: 151700
